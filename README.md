@@ -10,14 +10,14 @@ Walmart Sales
 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 
 # Features
-Store: Store number
-Date: Sales week start date
-Weekly_Sales: Sales
-Holiday_Flag: Mark on the presence or absence of a holiday
-Temperature: Air temperature in the region
-Fuel_Price: Fuel cost in the region
-CPI: Consumer price index
-Unemployment: Unemployment rate
+- Store: Store number
+- Date: Sales week start date
+- Weekly_Sales: Sales
+- Holiday_Flag: Mark on the presence or absence of a holiday
+- Temperature: Air temperature in the region
+- Fuel_Price: Fuel cost in the region
+- CPI: Consumer price index
+- Unemployment: Unemployment rate
 
 ## Technologies Used
 - Python
