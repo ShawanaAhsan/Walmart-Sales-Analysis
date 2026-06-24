@@ -6,7 +6,7 @@ Businesses collect large volumes of sales data, making it difficult to identify 
 
 # Dataset
 
-#Walmart Sales
+Walmart Sales
 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 
 # Features
