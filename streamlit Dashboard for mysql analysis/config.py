@@ -1,5 +1,5 @@
 
 DB_USER = "root"
-DB_PASSWORD = "shawana123"
+DB_PASSWORD = "password"
 DB_HOST = "localhost"
 DB_NAME = "walmart_sales"
