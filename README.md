@@ -39,8 +39,23 @@ Which month has the highest sales?
 
 ## Dashboard Previ
 <img width="1920" height="962" alt="Capture" src="https://github.com/user-attachments/assets/580f94cd-2a03-425d-814d-ea90f2039536" />
+<img width="1913" height="847" alt="1" src="https://github.com/user-attachments/assets/915d5df6-9fc5-4192-b84f-ce002c637902" />
+<img width="1920" height="845" alt="2" src="https://github.com/user-attachments/assets/ff456b7c-0095-4113-8f2d-5c7c070693c0" />
+<img width="1917" height="834" alt="3" src="https://github.com/user-attachments/assets/f692bcaa-5390-4be9-8acc-e19eef1ca28a" />
 
+## Installation
 
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application
+
+```bash
+streamlit run app.py
+```
 
 
 
