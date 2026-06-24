@@ -1,15 +1,15 @@
 ## Walmart-Sales-Analysis
 The Walmart Sales Analytics Dashboard is an interactive  developed using Streamlit and MySQL. It enables users to analyze sales performance through KPIs, charts, and interactive filters, helping identify business trends and support data-driven decisions.
 
-#Business Problem
+## Business Problem
 Businesses collect large volumes of sales data, making it difficult to identify trends and performance indicators. This dashboard simplifies analysis by presenting key metrics and interactive visualizations in one place.
 
-#Dataset
+# Dataset
 
 #Walmart Sales
 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 
-#Features
+# Features
 Store: Store number
 Date: Sales week start date
 Weekly_Sales: Sales
@@ -18,4 +18,31 @@ Temperature: Air temperature in the region
 Fuel_Price: Fuel cost in the region
 CPI: Consumer price index
 Unemployment: Unemployment rate
+
+## Technologies Used
+- Python
+- Streamlit
+- MySQL
+- SQLAlchemy
+- Pandas
+
+## SQL Analysis
+Which store has the highest total sales? 
+Which weeks had the highest and lowest sales? 
+How do holiday weeks affect sales? 
+Which stores perform consistently well? 
+What is the average weekly sales per store? 
+Does unemployment affect sales? 
+Does fuel price affect sales? 
+Does temperature affect sales? 
+Which month has the highest sales? 
+
+## Dashboard Previ
+<img width="1920" height="962" alt="Capture" src="https://github.com/user-attachments/assets/580f94cd-2a03-425d-814d-ea90f2039536" />
+
+
+
+
+
+
 
